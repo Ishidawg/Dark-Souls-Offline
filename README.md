@@ -1,7 +1,7 @@
 # Dark Souls 2 Offline 💀
 > **Software thats make Dark Souls 2 Offline.**
 
-I decided to do this simple GUI off/on toggle dark souls network mode, to make easier as possible use mods without being banned. Just start the app, browse to .exe, toggle the option and boom! easy!.
+I decided to do this simple GUI off/on toggle dark souls network mode, to make easier as possible to use mods without being banned. Just start the app, browse to .exe, toggle the option and boom! easy!.
 
 ## Software GUI
 ![dark-souls-GUI](https://cdn.discordapp.com/attachments/524370625167491073/1212997510541344798/Capture1.PNG?ex=65f3def6&is=65e169f6&hm=35af611f6ee9a80613837a9f8e2c6af4c9277c1da851822f04f732dd728b8bba&)
