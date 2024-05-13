@@ -4,10 +4,11 @@
 I decided to do this simple GUI off/on toggle dark souls network mode, to make easier as possible to use mods without being banned. Just start the app, browse to .exe, toggle the option and boom! easy!.
 
 ## Software GUI
-![dark-souls-GUI](https://cdn.discordapp.com/attachments/524370625167491073/1212997510541344798/Capture1.PNG?ex=662e89b6&is=662d3836&hm=803623ba1587af9b4fe47b0bab61e5c3a5074257ab0f8779d9650429f3b4cd39&)
-![dark-souls-GUI](https://cdn.discordapp.com/attachments/524370625167491073/1212997510868762674/Capture2.PNG?ex=662e89b6&is=662d3836&hm=7b4172f3c22e4d54487b385cd3e2ab2ee70944bc00419e3772ada4b9a01f2be8&)
-![dark-souls-GUI](https://cdn.discordapp.com/attachments/524370625167491073/1212997511245996113/Capture3.PNG?ex=662e89b7&is=662d3837&hm=5e29cb058e97daee3f2b5ff40516fc86a7ad71fa10c1e79cdfeac041412f7e71&)
-
+<div align="center">
+  <img alt="Ishidaw-HTML" src="https://github.com/Ishidawg/Dark-SoulsII-Offline/blob/main/images/Capture1.PNG?raw=true">
+  <img alt="Ishidaw-CSS" src="https://github.com/Ishidawg/Dark-SoulsII-Offline/blob/main/images/Capture1.PNG?raw=true">
+  <img alt="Ishidaw-Js" src="https://github.com/Ishidawg/Dark-SoulsII-Offline/blob/main/images/Capture3.PNG?raw=true">
+</div>
 
 ## What I used to make it 📑
 - **Code editor:** VSCODE
@@ -15,7 +16,7 @@ I decided to do this simple GUI off/on toggle dark souls network mode, to make e
 - **Library:** customtkinter, subprocess, sys, ctypes and nuitka to make it .exe
 
 ## Logo or Icon 🎨
-![dark-souls-logo](https://cdn.discordapp.com/attachments/524370625167491073/1212868773883809852/icon.png?ex=65f36711&is=65e0f211&hm=4217b642fb61fc27fe7fff3622610a77eb3292dcd7401cba5067f074c751696a&)
+![dark-souls-logo](https://github.com/Ishidawg/Dark-SoulsII-Offline/blob/main/images/icon.png?raw=true)
 
 ## IMPORTANT!
 To use, execute as administrator!
