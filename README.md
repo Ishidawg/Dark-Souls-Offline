@@ -6,7 +6,7 @@ I decided to do this simple GUI off/on toggle dark souls network mode, to make e
 ## Software GUI
 <div align="center">
   <img alt="Ishidaw-HTML" src="https://github.com/Ishidawg/Dark-SoulsII-Offline/blob/main/images/Capture1.PNG?raw=true">
-  <img alt="Ishidaw-CSS" src="https://github.com/Ishidawg/Dark-SoulsII-Offline/blob/main/images/Capture1.PNG?raw=true">
+  <img alt="Ishidaw-CSS" src="https://github.com/Ishidawg/Dark-SoulsII-Offline/blob/main/images/Capture2.PNG?raw=true">
   <img alt="Ishidaw-Js" src="https://github.com/Ishidawg/Dark-SoulsII-Offline/blob/main/images/Capture3.PNG?raw=true">
 </div>
 
